@@ -20,7 +20,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ResourceBundle;
-
+//login form for users
 public class LoginController implements Initializable {
     @FXML
     private Label c_logo;
